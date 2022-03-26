@@ -1,8 +1,8 @@
-# Reconnaissance
+# RouterSpace
 
 ## Network Scanning
 
-![](assets_md/Pasted%20image%2020220326122743.png)
+![](../HackTheBox/assets\_md/Pasted%20image%2020220326122743.png)
 
 ### `TCP` Results
 

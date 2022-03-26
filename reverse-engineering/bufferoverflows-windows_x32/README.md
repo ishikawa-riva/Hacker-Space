@@ -1,4 +1,4 @@
-# Buffer Overflows Windows_x32
+# Buffer Overflows Windows\_x32
 
 ## Pre-Requisites
 
@@ -26,7 +26,7 @@
 
 For a successful buffer overflow -
 
-1. _**We must overwrite the return address on stack, i.e ( Take Control over**** ****`Instruction Pointer`**** ****)**_
+1. _**We must overwrite the return address on stack, i.e ( Take Control over\*\*\*\***** ****`Instruction Pointer`**** ****\*\*\*\*)**_
 2. Can Inject Shell Code.
 
 ### About Stack
@@ -34,4 +34,4 @@ For a successful buffer overflow -
 1. We **overflows** the local variables, it will overwrite the **`RETURN` address.**
 2. _**Stack grows Downwards.**_
 
-![](assets_md/Pasted%20image%2020220319114135.png)
+![](assets\_md/Pasted%20image%2020220319114135.png)
