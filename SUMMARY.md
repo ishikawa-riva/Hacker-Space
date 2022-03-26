@@ -2,7 +2,7 @@
 
 * [hacker-space](README.md)
 * [HackTheBox](hackthebox/README.md)
-  * [Paper](HackTheBox/Paper.md)
+  * [Paper](hackthebox/Paper.md)
   * [RouterSpace](hackthebox/routerspace.md)
 * [Reverse Engineering](reverse-engineering/README.md)
   * [Buffer Overflows Windows\_x32](reverse-engineering/bufferoverflows-windows\_x32/README.md)
