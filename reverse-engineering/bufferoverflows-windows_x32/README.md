@@ -26,7 +26,7 @@
 
 For a successful buffer overflow -
 
-1. _**We must overwrite the return address on stack, i.e ( Take Control over\*\*\*\***** ****`Instruction Pointer`**** ****\*\*\*\*)**_
+1. _**We must overwrite the return address on stack, i.e ( Take Control over`Instruction Pointer`)**_
 2. Can Inject Shell Code.
 
 ### About Stack
