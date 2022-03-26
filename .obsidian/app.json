@@ -1,0 +1,11 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "assets_md",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets_md",
+  "readableLineLength": false
+}
