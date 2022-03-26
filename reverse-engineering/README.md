@@ -8,17 +8,17 @@ description: Binary Exploitation
 
 ### Registers And Assembly Programming Convention
 
-![](<assets\_md/Pasted image 20220319095929.png>)
+![](/assets_md/Pasted%20image%2020220319095929.png)
 
-![](<../assets\_md/Pasted image 20220319100710.png>)
+![](/assets_md/Pasted%20image%2020220319100710.png)
 
-![](<../assets\_md/Pasted image 20220319100820.png>)
+![](/assets_md/Pasted%20image%2020220319100820.png)
 
 ### First Assembly Program
 
-![](<../assets\_md/Pasted image 20220319101428.png>)
+![](/assets_md/Pasted%20image%2020220319101428.png)
 
-![](<../assets\_md/Pasted image 20220319101508.png>)
+![](/assets_md/Pasted%20image%2020220319101508.png)
 
 **Basic Assembly `Hello World` Program**
 

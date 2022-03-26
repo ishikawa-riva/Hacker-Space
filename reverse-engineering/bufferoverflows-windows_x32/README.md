@@ -34,4 +34,4 @@ For a successful buffer overflow -
 1. We **overflows** the local variables, it will overwrite the **`RETURN` address.**
 2. _**Stack grows Downwards.**_
 
-![](assets\_md/Pasted%20image%2020220319114135.png)
+![](/assets_md/Pasted%20image%2020220319114135.png)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hackthebox/routerspace.md",
+            "file": "reverse-engineering/README.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hackthebox/routerspace.md",
+                "file": "reverse-engineering/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f74ff128636d2ebb",
   "lastOpenFiles": [
-    "hackthebox/routerspace.md",
-    "hackthebox/Paper.md",
-    "SUMMARY.md",
-    "HackTheBox/RouterSpace.md",
-    "README.md",
     "reverse-engineering/README.md",
     "reverse-engineering/bufferoverflows-windows_x32/README.md",
     "reverse-engineering/bufferoverflows-windows_x32/demoexploit.md",
-    "assets_md/Pasted image 20220319100710.png",
-    "assets_md/Pasted image 20220319095929.png"
+    "README.md",
+    "SUMMARY.md",
+    "hackthebox/Paper.md",
+    "Readings/Vulnerability-Scanning-pawn-storm-in-2019.pdf",
+    "hackthebox/README.md",
+    "hackthebox/routerspace.md",
+    "HackTheBox/RouterSpace.md"
   ]
 }
