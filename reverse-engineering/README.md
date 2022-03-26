@@ -8,7 +8,7 @@ description: Binary Exploitation
 
 ### Registers And Assembly Programming Convention
 
-![](<../assets\_md/Pasted image 20220319095929.png>)
+![](<assets\_md/Pasted image 20220319095929.png>)
 
 ![](<../assets\_md/Pasted image 20220319100710.png>)
 

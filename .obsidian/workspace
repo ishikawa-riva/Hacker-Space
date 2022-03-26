@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "f41bd511dcd08212",
+        "id": "233b975b457216fd",
         "type": "leaf",
-        "dimension": 87.17948717948718,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HackTheBox/Paper.md",
-            "mode": "source"
+            "file": "HackTheBox/RouterSpace.md",
+            "mode": "preview",
+            "source": true
           }
         }
       },
       {
-        "id": "aae5fe93ca0e446b",
+        "id": "7d04abd19ee675c1",
         "type": "leaf",
-        "dimension": 12.82051282051282,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HackTheBox/Paper.md",
-            "mode": "preview"
+            "file": "HackTheBox/RouterSpace.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "18dff31060db4275",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Paper.md",
+                "file": "HackTheBox/RouterSpace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f41bd511dcd08212",
+  "active": "7d04abd19ee675c1",
   "lastOpenFiles": [
+    "HackTheBox/RouterSpace.md",
     "HackTheBox/Paper.md",
-    "assets_md/Pasted image 20220326084606.png",
-    "assets_md/Pasted image 20220326085317.png",
-    "assets_md/Pasted image 20220326081633.png",
-    "assets_md/Pasted image 20220326084208.png",
-    "assets_md/Pasted image 20220325143431.png",
-    "assets_md/Pasted image 20220326011211.png",
-    "Reverse-Engineering/BufferOverflows-Windows_x32/demoexploit.md",
-    "Reverse-Engineering/BufferOverflows-Windows_x32/README.md",
-    "assets_md/Pasted image 20220320101022.png"
+    "README.md",
+    "reverse-engineering/README.md",
+    "reverse-engineering/bufferoverflows-windows_x32/README.md",
+    "reverse-engineering/bufferoverflows-windows_x32/demoexploit.md",
+    "assets_md/Pasted image 20220319100710.png",
+    "assets_md/Pasted image 20220319095929.png",
+    "Readings/Vulnerability-Scanning-Advisory-further-TTPs-associated-with-SVR-cyber-actors.pdf",
+    "Readings/Vulnerability-Scanning-pawn-storm-in-2019.pdf"
   ]
 }
